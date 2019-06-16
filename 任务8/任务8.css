@@ -126,6 +126,7 @@ select{border:none;
 }
 .big-img{
 	height:675px;
+	border-top:2px #3aa747 solid;
 }
 .big-img img{
 	width:100%;
