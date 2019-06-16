@@ -116,7 +116,7 @@ select{border:none;
 	margin-left:15px;
 }
 .nav ul li:hover{
-	border-bottom:5px #3aa747 solid;
+	border-bottom:3px #3aa747 solid;
 }
 .nav ul li:hover a{
 	color:#3aa747;
