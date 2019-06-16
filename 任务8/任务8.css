@@ -68,13 +68,12 @@ select{border:none;
 }
 .search input{
 	width:535px;
-	height:45px;
+	height:46px;
 	text-align:center;
 	font-size:15px;
 	color:#dddddd;
 	border:none;
-	border:1px #fff solid;
-	border-right-color:#cccccc;
+	border-right:1px #cccccc solid;
 }
 .search-img{
 	float:right;
