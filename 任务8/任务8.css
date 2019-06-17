@@ -125,14 +125,11 @@ select{border:none;
 	border:none;
 }
 .big-img{
-<<<<<<< HEAD
 	height:670px;
-=======
 	height:675px;
 	border-top:2px #3aa747 solid;
 }
 .big-img img{
->>>>>>> 0a188538d83c408c7675196edb9ccf0705e500a6
 	width:100%;
 	border-top:2px #3aa747 solid;
 	background:url("所需小图/banner.png") no-repeat center;
